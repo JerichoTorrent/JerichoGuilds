@@ -1,0 +1,7 @@
+com\jerichoguilds\GuildManager.class
+com\jerichoguilds\NotBountiesIntegration.class
+com\jerichoguilds\HonorIntegration.class
+com\jerichoguilds\GuildCommands.class
+com\jerichoguilds\GuildTabCompleter.class
+com\jerichoguilds\HonorTask.class
+com\jerichoguilds\JerichoGuilds.class

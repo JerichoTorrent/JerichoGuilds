@@ -1,0 +1,18 @@
+name: JerichoGuilds
+main: com.jerichoguilds.JerichoGuilds
+version: 1.0
+description: A guild system plugin integrated with HonorPlugin and NotBounties.
+author: JerichoTorrent
+softdepend:
+  - NotBounties
+  - HonorPlugin
+commands:
+  guild:
+    description: Manage your guilds
+    usage: /guild <join|leave>
+    permission: guilds.command
+commands:
+  guild:
+    description: Manage your guilds
+    usage: /guild <join|leave>
+    permission: guilds.command
